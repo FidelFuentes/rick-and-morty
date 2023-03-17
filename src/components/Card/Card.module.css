@@ -1,0 +1,42 @@
+
+.h2{
+    background-color: rgb(220, 183, 135);
+    opacity: 80%;
+}
+
+
+
+.gender{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.container{
+    border: solid 3px;
+    border-color: rgb(182, 0, 182);
+    box-shadow: 10px 5px 5px black;
+    margin-bottom: 20px;
+}
+
+:hover.container{
+    transform: scale(1.05);
+}
+
+.human{
+    background-color: grey;
+    border: solid black 2px;
+    padding: 0.5em;
+}
+
+.button{
+    color: white;
+    font-weight: bold;
+    border: solid 2px black;
+    background-color: red;
+    margin-top: 10px;
+    
+}
+:hover.button{
+    transform: scale(1.2);
+}

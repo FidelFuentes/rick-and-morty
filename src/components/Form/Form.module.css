@@ -1,0 +1,16 @@
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width:fit-content;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(201, 175, 226);
+    border: 2px solid rgb(107, 18, 107);
+    padding: 10px;
+    margin-left: 40%;
+    
+
+}

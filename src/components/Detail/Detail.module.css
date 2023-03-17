@@ -1,0 +1,20 @@
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-image: url('https://t4.ftcdn.net/jpg/05/44/56/67/360_F_544566700_CrfXCnvRp40J9NyQvVQqUhhfphxrFFoi.jpg');
+    width: 25%;
+    margin-left: 38%;
+    min-width: fit-content;
+    background-size: cover;
+    border: 2px solid green;
+}
+
+
+h1{
+    color: white;
+    font-weight: bolder;
+}

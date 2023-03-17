@@ -1,0 +1,43 @@
+
+.nav{
+   background-color: rgb(170, 101, 234);
+    opacity: 80%;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 2px solid purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.p{
+    color: black;
+    border: 1px solid black;
+    font-size: larger;
+    padding: 10px;
+    background-color: wheat;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+nav{
+    display: flex;
+    justify-items: center;
+    gap: 10px;
+   
+}
+
+.div{
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    justify-content: flex-start;
+    
+}
+.search{
+    margin-top: 25px;
+    
+}
